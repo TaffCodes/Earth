@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1710695138 source:c:\users\mataw\documents\codeblocks_gl\sample_project\main.cpp
+	<GL/glut.h>
+	<cmath>
+
+1710315504 source:c:\users\mataw\documents\codeblocks_gl\sample_project\star.cpp
+	<GL/glut.h>
+	<cmath>
+
