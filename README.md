@@ -2,7 +2,7 @@
 Simulating the solar system with OpenGL.
 
 ## Running the application
-==========================
+
 1. Clone the project to your machine.
 
  >  `git clone https://github.com/TaffCodes/Earth`
@@ -14,7 +14,6 @@ Simulating the solar system with OpenGL.
 3. Run the file named `Sample_Project.exe`.
 
 ## Further Considerations
-=========================
 - This is just a skeleton view of how the project would look like.
 - Feel free to modify and add more components.
 
